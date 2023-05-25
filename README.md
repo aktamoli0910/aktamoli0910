@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Kumar Tamoli</h1>
-<h3 align="center">CSE Undergrad | Frontend Web Developer | Comptitive Programmer</h3>
+<h3 align="center">CSE Undergrad | FullStack Web Developer | Comptitive Programmer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aktamoli0910/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abhikumar.619" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40" /></a>
